@@ -2,7 +2,7 @@ name: python script
 
 on:
   schedule:
-    - cron: "*/23 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
